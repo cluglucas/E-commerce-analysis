@@ -1,1 +1,1 @@
-# E-commerce-analysis
+# Análise explorátoria de pedidos de pedidos num serviço de e-commerce
