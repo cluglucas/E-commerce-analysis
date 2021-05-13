@@ -1,1 +1,1 @@
-# Análise explorátoria de pedidos de pedidos num serviço de e-commerce
+# Análise explorátoria de pedido num serviço de e-commerce
